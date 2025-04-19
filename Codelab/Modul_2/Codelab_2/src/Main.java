@@ -25,7 +25,7 @@ class Rekeningbank{
 }
 
 //class main berfungsi untuk menjalankan program utama
-public class Main {
+public Main {
     public static void main(String[] args) {
         //atribut dari class main
         //rekening1 dan rekening2 merupakan objek rekening dari awal saldo yang dibut dari class rekeningbank
