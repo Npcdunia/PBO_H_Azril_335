@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="284429b8-2488-45f6-bd40-43a077ffda60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Modul_4/Modul_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Modul_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Barang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StokTidakCukupException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/Anggota.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/Anggota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/Buku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/Fiksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/Fiksi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/NonFiksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/NonFiksi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/Peminjaman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Modul_4/Codelab_4/src/perpustakaan/Peminjaman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tugas/src/com/praktikum/actions/AdminActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Tugas/src/com/praktikum/actions/AdminActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Tugas/src/com/praktikum/actions/MahasiswaActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Tugas/src/com/praktikum/actions/MahasiswaActions.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Exception" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2x7SD3aPSceJkgKOkj9DB78nYcU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ManajemenBarang.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/ayi/Kuliah/semester 2/PBO_H_Azril_335/Codelab/Modul_5/Codelab_5/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="284429b8-2488-45f6-bd40-43a077ffda60" name="Changes" comment="" />
+      <created>1747287498506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747287498506</updated>
+    </task>
+    <servers />
+  </component>
+</project>
