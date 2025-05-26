@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.InputMismatchException;
 
 public class ManajemenBarang {
@@ -7,14 +8,14 @@ public class ManajemenBarang {
         ArrayList<Barang> daftarBarang = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
 
-        daftarBarang.add(new Barang("Pensil", 0));
-        daftarBarang.add(new Barang("Buku", 0));
-        daftarBarang.add(new Barang("Pulpen", 0));
+        daftarBarang.add(new Barang("Novel", 10));
+        daftarBarang.add(new Barang("ensklopedia", 10));
+        daftarBarang.add(new Barang("Komik", 10));
 
-        int pilihan = -1;
+        int pilihan = 1;
 
         while (pilihan != 0) {
-            System.out.println("=== Menu Manajemen Stok ===");
+            System.out.println("\n=== Menu Manajemen Stok ===");
             System.out.println("1. Tambah Barang Baru");
             System.out.println("2. Tampilkan Semua Barang");
             System.out.println("3. Kurangi Stok Barang");
@@ -48,9 +49,10 @@ public class ManajemenBarang {
                             System.out.println("Stok barang kosong.");
                         } else {
                             System.out.println("\nDaftar Barang:");
-                            for (int i = 0; i < daftarBarang.size(); i++) {
-                                Barang b = daftarBarang.get(i);
-                                System.out.println(i + ". " + b.getNama() + " - Stok: " + b.getStok());
+                            Iterator<Barang> iterator = daftarBarang.iterator();
+                            while (iterator.hasNext()) {
+                                Barang barang = iterator.next();
+                                System.out.println("- " + barang.getNama() + " (Stok: " + barang.getStok() + ")");
                             }
                         }
                         break;

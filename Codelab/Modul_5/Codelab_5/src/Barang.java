@@ -11,10 +11,6 @@ public class Barang {
         return nama;
     }
 
-    public void setNama(String nama){
-        this.nama = nama;
-    }
-
     public int getStok(){
         return stok;
     }
