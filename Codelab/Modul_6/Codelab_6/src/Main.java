@@ -84,10 +84,10 @@ public class Main extends Application {
 
         VBox root = new VBox(15, judulLabel, feedbackLabel, inputBox, percobaanLabel);
         root.setAlignment(Pos.CENTER);
-        root.setStyle("-fx-background-color: #E3F2FD; -fx-padding: 25;");
+        root.setStyle("-fx-background-color:#F3E5F5; -fx-padding: 25;");
 
         Scene scene = new Scene(root, 400, 250);
-        primaryStage.setTitle("Tebak Angka Advance");
+        primaryStage.setTitle("Tebak Angka ");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
